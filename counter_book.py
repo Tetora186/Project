@@ -7,6 +7,6 @@ lines = file.read().splitlines()
 #words = open(file('rb')).split()
 
 
-print("Plik zawiera:")
-print(len(lines), " wierszy")
+print("Plik zawiera:", len(lines), " wierszy")
+
 #print(words, " słów")
